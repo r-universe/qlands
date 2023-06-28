@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FormShare"]
 	path = FormShare
 	url = https://github.com/qlands/formshare-r-package
-	shallow = true
-	registered = true
